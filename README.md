@@ -6,7 +6,7 @@
 - Глава 1. Основные настройки программы.
 
 1.1 Скачивание и первый запуск программы:
-  1. Скачиваем [Nekoray](https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-windows64.zip) от автора [MatsuriDayo](https://github.com/MatsuriDayo)
+  1. Скачиваем [Nekoray](https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-windows64.zip) от автора [MatsuriDayo](https://github.com/MatsuriDayo) + [Остальные релизы Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
   2. Распакуйте архив куда вам удобно, я закинул папку к себе на рабочий стол. Папка по стандарту называется "nekoray" и именно он нам нужен.
   3. Откройте папку и найдите файл с названием "nekobox" и запустите его от имени администратора.
 
