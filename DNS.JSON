@@ -1,0 +1,15 @@
+    {
+      "servers": [
+        {
+          "address": "https://8.8.8.8/dns-query",
+          "tag": "remote"
+        }
+      ],
+      "rules": [
+        {
+          "outbound": "any",
+          "server": "remote"
+        }
+      ],
+      "final": "remote"
+    }
